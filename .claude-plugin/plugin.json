@@ -1,6 +1,6 @@
 {
   "name": "mcpskills",
-  "description": "Install and manage AI skills and MCP servers from MCPSkills - the package manager for AI agents",
+  "description": "npm/pip for AI agents - install MCP servers and skills with a single command",
   "version": "1.0.0",
   "author": {
     "name": "MCPSkills Team"
