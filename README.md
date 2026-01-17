@@ -1,6 +1,6 @@
 # MCPSkills Plugin for Claude Code
 
-The official Claude Code plugin for the MCPSkills registry - the Homebrew for AI agents.
+The official Claude Code plugin for MCPSkills - npm/pip for AI agents.
 
 ## Features
 
@@ -72,8 +72,8 @@ npm install -g skill-get mcp-get
 
 ## Links
 
-- **Web Marketplace**: https://mcpskills.dev
-- **API Documentation**: https://api.mcpskills.dev/docs
+- **Web Marketplace**: https://mcpskills.pages.dev
+- **API**: https://api.mcpskills.dev/api/v1
 - **GitHub**: https://github.com/mcpskills
 
 ## Support
