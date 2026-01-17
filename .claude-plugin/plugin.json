@@ -1,6 +1,6 @@
 {
   "name": "mcpskills",
-  "description": "Install and manage AI skills and MCP servers from the MCPSkills registry - the Homebrew for AI agents",
+  "description": "Install and manage AI skills and MCP servers from MCPSkills - the package manager for AI agents",
   "version": "1.0.0",
   "author": {
     "name": "MCPSkills Team"
